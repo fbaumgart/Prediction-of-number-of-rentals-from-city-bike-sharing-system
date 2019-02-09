@@ -6,3 +6,5 @@ Dataset was pulled from https://archive.ics.uci.edu/ml/machine-learning-database
 .ipynb file format is from Jupyter Notebook (Anaconda) software
 
 .txt file is just the latter converted to text
+
+Raport.pdf is a summary on how the project works and result analysis (PL language) 
